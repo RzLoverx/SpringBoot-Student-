@@ -1,0 +1,3 @@
+com\openarc\student\domain\Student.class
+com\openarc\student\repository\StudentRepository.class
+com\openarc\student\StudentsApplication.class
